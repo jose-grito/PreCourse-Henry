@@ -1,2 +1,3 @@
 # PreCourse-Henry
-Este es un repositorio de prueba de precourse henry
+Mi nombre es jose
+edad 34
